@@ -19,7 +19,7 @@ public class Assign2 {
 
     while (run) {
 
-      System.out.print("명령을 입력해주세요 > ");
+      System.out.print("명령을 입력해주세요. > ");
 
       switch (sc.nextLine()) {
 
